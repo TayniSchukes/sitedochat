@@ -1,6 +1,6 @@
 <?php
     #Conectando usando a chave criada e o link da api
-    $chave = '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';
+    $chave = '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';
     $url = 'https://api.openai.com/v1/chat/completions';
     $pergunta = $_POST["pergunta_usuario"];
     #Usando a variável data para expecificar o modelo do Chat usado
